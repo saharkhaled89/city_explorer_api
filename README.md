@@ -76,6 +76,7 @@ Actual time needed to complete: 30min
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
 
-https://trello.com/b/5VhTuAyN/city-explorer-api
-https://trello.com/saharkhaled1/activity
-https://codefellows.github.io/code-301-guide/curriculum/city-explorer-app/front-end/
+[link1](https://trello.com/b/5VhTuAyN/city-explorer-api)
+[link2]https://trello.com/saharkhaled1/activity
+[link3]https://codefellows.github.io/code-301-guide/curriculum/city-explorer-app/front-end/
+[link4]https://github.com/saharkhaled89/city_explorer_api/pull/1
